@@ -13,14 +13,14 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "yxliconv2~wbNBSbia#i2s1kNdvFt_W1lwyF6rJoFgKStfm680Fa_IrA4d81m4",
       "required": true,
-      "value": ""
+      "value": "xliconv2~wbNBSbia#i2s1kNdvFt_W1lwyF6rJoFgKStfm680Fa_IrA4d81m4"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
@@ -29,7 +29,7 @@
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
-      "required": true,
+      "required": false,
       "value": ""
     },
      "HAPP": {
